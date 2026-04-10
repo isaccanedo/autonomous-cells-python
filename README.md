@@ -1,4 +1,4 @@
-# Conway-Jogo-da-Vida
+## Conway-Jogo-da-Vida
 Simulação de "celulas" autonomas, seguindo regras simples.<br>
 ![ezgif com-crop](https://user-images.githubusercontent.com/12675265/63235676-d7f60280-c210-11e9-9821-b896aaff9f93.gif)
 
